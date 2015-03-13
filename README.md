@@ -15,7 +15,7 @@
 ----
 
 #### Pro-tips
-###### Github
+##### Github
 
 - [ ] Disable the email notifications and take advantage of the notifications in the web view https://github.com/notifications
 
