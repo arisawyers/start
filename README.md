@@ -7,3 +7,11 @@
 - [ ] [Enable Two-Factor Authentication](https://help.github.com/articles/about-two-factor-authentication/)
 - [ ] Send your Github username to the person who has invited you on Github
 - [ ] Once the inviter has added you, you will get an invitation email or you can visit https://github.com/sunrise to accept your invitation to join Sunrise on Github.
+-
+
+#### Pro-tips
+###### Github
+- [ ] Disable the email notifications and take advantage of the notifications in web view under https://github.com/notifications
+
+##### Slack
+
