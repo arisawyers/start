@@ -13,7 +13,7 @@
 #### Pro-tips
 ###### Github
 
-- [ ] Disable the email notifications and take advantage of the notifications in web view under https://github.com/notifications
+- [ ] Disable the email notifications and take advantage of the notifications in the web view https://github.com/notifications
 
 ##### Slack
 
