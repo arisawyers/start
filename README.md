@@ -17,3 +17,4 @@
 
 ##### Slack
 
+- [ ] Disable the email notifications 
