@@ -17,7 +17,10 @@
 #### Pro-tips
 ##### Github
 
-- [ ] Disable the email notifications and take advantage of the notifications in the web view https://github.com/notifications
+- [ ] Disable the email notifications and take advantage of the Notifications view https://github.com/notifications
+- [ ] For projects you are not directly working on, change the Notifications to "Not Watching":
+![](http://g.recordit.co/v2jGVhQmmP.gif)
+- [ ] Mute issues
 
 ##### Slack
 
