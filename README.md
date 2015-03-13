@@ -10,6 +10,7 @@
  
 #### How to get started on Slack
 - [ ] [Download the Mac.app](https://itunes.apple.com/us/app/slack/id803453959?mt=12)
+- [ ] Download the [Android](https://play.google.com/store/apps/details?id=com.Slack&hl=en) or [iOS](https://itunes.apple.com/us/app/slack-team-communication/id618783545?mt=8) app
 
 ----
 
