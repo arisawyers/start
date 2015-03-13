@@ -11,7 +11,6 @@
 #### How to get started on Slack
 - [ ] [Download the Mac.app](https://itunes.apple.com/us/app/slack/id803453959?mt=12)
 
-
 ----
 
 #### Pro-tips
@@ -22,3 +21,5 @@
 ##### Slack
 
 - [ ] Disable the email notifications 
+
+----
