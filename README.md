@@ -5,6 +5,7 @@
 
 - [ ] [Create an Account](https://github.com/join)
 - [ ] [Enable Two-Factor Authentication](https://help.github.com/articles/about-two-factor-authentication/)
+- [ ] [Add a photo – it's more fun!](https://help.github.com/articles/how-do-i-set-up-my-profile-picture/)
 - [ ] Send your Github username to the person who has invited you on Github
 - [ ] Once the inviter has added you, you will get an invitation email or you can visit https://github.com/sunrise to accept your invitation to join Sunrise on Github.
  
