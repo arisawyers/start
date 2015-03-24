@@ -22,6 +22,8 @@
 - [ ] For projects you are not directly working on, change the Notifications to "Not Watching":
 ![](http://g.recordit.co/v2jGVhQmmP.gif)
 - [ ] Mute issues
+- [ ] Check out the milestones of the different repositories to see what's coming up next. Here are the [Product Milestones](https://github.com/sunrise/product/milestones) as an example
+- [ ] Check out what is everyone working on at the moment [here](https://github.com/sunrise/team)
 
 ##### Slack
 
