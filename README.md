@@ -16,6 +16,11 @@
 ----
 
 #### Pro-tips
+##### Slack
+
+- [ ] Disable the email notifications
+
+
 ##### Github
 
 - [ ] [Disable all email notifications](https://github.com/settings/notifications) and take advantage of the Notifications view https://github.com/notifications
@@ -29,11 +34,5 @@
 
 ![](http://f.cl.ly/items/250L443l0h2g3R3k2f1w/Screen%20Shot%202015-04-02%20at%204.19.53%20PM.png)
 ![](http://f.cl.ly/items/080p34223q2p0L2u323h/Screen%20Shot%202015-04-02%20at%204.20.01%20PM.png)
-
-
-
-##### Slack
-
-- [ ] Disable the email notifications 
 
 ----
