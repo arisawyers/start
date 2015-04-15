@@ -16,6 +16,11 @@ Welcome to Sunrise!
 1. Download the [Mac](https://itunes.apple.com/us/app/slack/id803453959?mt=12) app or [access from the web](https://sunrisecalendar.slack.com/)
 2. See more [Slack](/Slack.md) tips
 
+## Getting Started on Google Calendar
+
+1. Team Announcements
+2. Team OOO
+
 ## [Getting Started on Sublime Text](/Sublime.md)
 
 ## [Getting Started on iTerm](/iTerm.md)
