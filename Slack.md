@@ -1,0 +1,2 @@
+- Download the [Android](https://play.google.com/store/apps/details?id=com.Slack) or [iOS](https://itunes.apple.com/us/app/slack-team-communication/id618783545?mt=8) app
+- [ ] Disable the email notifications
