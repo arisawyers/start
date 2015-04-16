@@ -1,7 +1,12 @@
+# Sublime Text
+
 http://www.sublimetext.com/
 
-package installer
+## Package Control
 
-jshint
+- Install [Sublime Package Control](https://packagecontrol.io/installation)
 
-git gutter
+## Useful Packages
+
+- [JSHint](https://github.com/SublimeLinter/SublimeLinter-jshint)
+- [Git Gutter](https://github.com/jisaacks/GitGutter)

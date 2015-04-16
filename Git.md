@@ -1,19 +1,25 @@
-Git Command Line
+# Git
+
+[Basic Git Tutorial](https://try.github.io)
+
+## Git Command Line
 
 http://git-scm.com/
 
-git autocomplete
-git coloring
-git branch
+- Install [Git Auto-Complete](https://github.com/git/git/blob/master/contrib/completion/git-completion.bash)
 
-Tower
+Git Coloring
+
+Git Branch
+
+## Tower
 
 http://www.git-tower.com/
 
-Source Tree
+## Source Tree
 
 http://www.sourcetreeapp.com/
 
-GitHub
+## GitHub
 
 https://mac.github.com/

@@ -13,8 +13,9 @@ Welcome to Sunrise!
 
 ## Getting Started on Slack
 
-1. Download the [Mac](https://itunes.apple.com/us/app/slack/id803453959?mt=12) app or [access from the web](https://sunrisecalendar.slack.com/)
-2. See more [Slack](/Slack.md) tips
+1. [Create an Account](https://sunrisecalendar.slack.com)
+2. [Enable Two-Factor Authentication](https://slack.zendesk.com/hc/en-us/articles/204509068-Enabling-two-factor-authentication)
+3. See more [Slack](/Slack.md) tips
 
 ## Getting Started on Google Calendar
 
@@ -23,11 +24,13 @@ Welcome to Sunrise!
 
 ## [Getting Started on Sublime Text](/Sublime.md)
 
+## [Getting Started on Atom](/Atom.md)
+
 ## [Getting Started on iTerm](/iTerm.md)
 
 ## [Getting Started on Git](/Git.md)
 
-## [Getting Started on NVM (Node Version Manager)](/NVM.md)
+## [Getting Started on Node Version Management](/NVM.md)
 
 ## [Getting Started on MongoDB](/MongoDB.md)
 
