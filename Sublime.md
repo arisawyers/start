@@ -10,3 +10,7 @@ http://www.sublimetext.com/
 
 - [JSHint](https://github.com/SublimeLinter/SublimeLinter-jshint)
 - [Git Gutter](https://github.com/jisaacks/GitGutter)
+
+### Snippets
+
+http://sublimetext.info/docs/en/extensibility/snippets.html

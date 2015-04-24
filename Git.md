@@ -24,17 +24,17 @@ http://git-scm.com/
 
 ### Git Shortcuts
 
-```
+```bash
 # Git Status
 alias gs="git status"
 ```
 
-```
+```bash
 # Git Diff
 alias gd="git diff"
 ```
 
-```
+```bash
 # Git Diff in Sublime
 alias gds="git diff | subl &"
 ```
