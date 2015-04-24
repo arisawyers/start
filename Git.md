@@ -20,7 +20,11 @@ http://git-scm.com/
 
 ### Git Current Branch
 
-[`export PS1='\[\e[1;32m\]\u@\h\[\e[1;39m\]:\[\e[1;36m\]\w\[\e[1;30m\]$(__git_ps1 " (%s)") \[\e[1;39m\]$ '`](http://martinfitzpatrick.name/article/add-git-branch-name-to-terminal-prompt-mac/)
+```
+export PS1='\[\e[1;32m\]\u@\h\[\e[1;39m\]:\[\e[1;36m\]\w\[\e[1;30m\]$(__git_ps1 " (%s)") \[\e[1;39m\]$
+```
+
+http://martinfitzpatrick.name/article/add-git-branch-name-to-terminal-prompt-mac/
 
 ### Git Shortcuts
 
