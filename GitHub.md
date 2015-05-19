@@ -6,6 +6,12 @@ Bookmark https://github.com/sunrise to quickly browse repositories.
 
 Bookmark https://github.com/search?q=user%3Asunrise&type=Issues to quickly search across the organization
 
+## GitHub TODO
+
+You can leverage the [GitHub Issues Search](https://help.github.com/articles/searching-issues/) to filter the issues assigned to you in the Sunrise organisation repositories.
+
+[Your TODO](https://github.com/search?p=2&q=user%3Asunrise+type%3Aissue+state%3Aopen+assignee%3AUSERNAME&ref=searchresults&type=Issues&utf8=%E2%9C%93) (Replace USERNAME with your GitHub's username)
+
 ## Notifications
 
 - [Disable all email notifications](https://github.com/settings/notifications) and take advantage of the Notifications view https://github.com/notifications
