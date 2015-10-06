@@ -1,6 +1,6 @@
-# Welcome to Sunrise
+# Welcome to Outlook
 
-Welcome to Sunrise!
+Welcome to Outlook!
 
 ## Getting Started on GitHub
 
